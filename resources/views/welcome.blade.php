@@ -65,6 +65,7 @@
         </style>
     </head>
     <body>
+		<div><h2>Version D:</h2></div>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
